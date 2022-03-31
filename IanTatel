@@ -23,7 +23,7 @@
 <input type="password" id="pwd" name="pwd"><br>					
 
 <h2>Type Color</h2>	
-<label for="favcolor">Select your favorite color:</label>
+<label for="favcolor">Select your favcolor:</label>
  input type="color" id="favcolor" name="favcolor"><br>
 			
 
