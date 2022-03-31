@@ -23,8 +23,8 @@
 <input type="password" id="pwd" name="pwd"><br>					
 
 <h2>Type Color</h2>	
-			<label for="favcolor">Select your favorite color:</label>
-  			<input type="color" id="favcolor" name="favcolor"><br>
+<label for="favcolor">Select your favorite color:</label>
+ input type="color" id="favcolor" name="favcolor"><br>
 			
 
 <h2 class = "name" > Phone</h2>
@@ -45,7 +45,7 @@ Id = "other" > OTHER </label>
 <h2>Buttons </h2>
  <input type="button" onclick="alert('Hello World!')" value="Click Me!"><br>
  <input type="submit" value="Submit"><br>
- <input type="Delete " value="Delete"><br>			
+ <input type="Delete" value="Delete"><br>			
 
 </body> 
 </html >
