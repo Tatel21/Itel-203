@@ -8,11 +8,11 @@
       <form>
       <div id = "name" >
        <h2 class = "name" > Name </h2>
-        <input class = "firstname"> <type = "text"  name="firstname">
+ <input class = "firstname"> <type = "text"  name="firstname">
  <label class ="first label" >first name </label>
  <input class = "lastname"> <type = "text"  name="lastname">
  <label class ="last label" >lastname </label>
-  </div>
+ </div>
 
 <h2 class = "name" > E-mail</h2>
 <label for="text">Type Text:</label><br>		 
@@ -33,6 +33,7 @@
 <input class = "number"> <type = "text"  name=" phone">
 <label class ="phone number "> Phone number</label>
 </div>
+
 <h2 class "name" > GENDER</h2>
 <label for ="name"  class radio inline>
 <input type = "radio" name = "gender" value "M" 
